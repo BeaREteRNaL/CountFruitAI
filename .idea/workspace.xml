@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd57a089-14bd-4202-be7e-2a8c2f188263" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/ngrok.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/linebottest.py" beforeDir="false" afterPath="$PROJECT_DIR$/linebottest.py" afterDir="false" />
     </list>
